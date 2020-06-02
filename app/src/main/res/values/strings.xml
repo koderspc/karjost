@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kar Jost</string>
+    <string name="user_type">نوع کاربر</string>
+    <string name="error_mobile_number">شماره همراه صحیح را وارد نمایید</string>
+    <string name="error_user_type">نوع کاربر را مشخص کنید</string>
+    <string name="code_receiving">دریافت کد</string>
+    <string name="mobile_number">شماره همراه</string>
+    <string name="register_code">کد تایید</string>
+    <string name="error_code_receiving">کد را دریافت نکردم</string>
+    <string name="item_choosing_message">حالا انتخاب کنید!</string>
+    <string name="item_choosing_error">لطفا حداقل یک گزینه را انتخاب کنید</string>
+    <string name="next">بعدی</string>
+    <string name="error_network_connection">خطا در اتصال به شبکه</string>
+    <string name="error_code_validation">کد صحیح را وارد کنید!</string>
+
+</resources>
